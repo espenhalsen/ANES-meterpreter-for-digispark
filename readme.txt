@@ -8,7 +8,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝
                                   
 v 1.0.0 - readme
-By halsen and loguecow
+By halsen and l0guecow
 
 
 This is for testing purposes only. DO NOT USE WITHOUT PERMISSION. 
