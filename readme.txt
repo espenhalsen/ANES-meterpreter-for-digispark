@@ -18,7 +18,15 @@ You have been warned!
 
 ---
 
-Use anes.py script in linux terminal with Metasploit installed (not included in script)
+Before starting:
+Make sure you have the Arduino program installed on a computer, with the digispark libiaries installed.
+Before you can start the process of creating the DigiSpark script, make sure you have installed our custom "DigiKeyboard.h" file, which is located in the same folder as the actual Arduino script on the GitHub page. (The folder which this file should be replaced should be under AppData\Local\Arduino15\packages\digistump\hardware\avr\1.6.7\libraries\DigisparkKeyboard - Google search if you don't know how to do it)
+
+You should now be ready to begin the process of creating a Meterpreter script to your Digispark with the ANES-meterpreter script
+
+---
+
+Use anes.py script in linux terminal with Meterpreter installed (not included in script)
 
 Take output-file and upload to a webserver
 
