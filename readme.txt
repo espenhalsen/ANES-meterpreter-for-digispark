@@ -7,11 +7,11 @@
 ██║  ██║██║ ╚████║███████╗███████║
 ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝
                                   
-v 1.3.6 - readme
+v 1.3.7 - readme
 By halsen and l0guecow
 
 
-This is for testing purposes only. DO NOT USE WITHOUT PERMISSION. 
+This is for testing purposes only. DO NOT USE ON OTHER INDIVIDUALS WITHOUT PERMISSION. 
 You agree to this by using the program.
 You have been warned!
 
