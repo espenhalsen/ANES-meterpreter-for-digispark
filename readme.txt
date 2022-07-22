@@ -42,5 +42,7 @@ Do "help" for list of commands
 
 ----
 
-For more information and help, open a issue and let us know.
+For more information and help, open a issue and let us know. :)
 
+NOTE
+Please note that this project was made as a college duo project. The project is well documented in Norwegian, and has been graded by Norwegian College teacher(s). This project is being updated to this day, but is not continued. The project stands as it is, excluding bug changes.
