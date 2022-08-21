@@ -17,7 +17,7 @@ $$ |  $$ |$$ |\$$$ |$$ |      $$\   $$ |    ///      \\      \
 $$ |  $$ |$$ | \$$ |$$$$$$$$\ \$$$$$$  |   ///       |\\      |  
 \__|  \__|\__|  \__|\________| \______/   //         | \\  \   \ 
 				          /          |  \\  \   \ 
-[MSFPC ANES Payload Creator | Laget av Andreas og Espen]      |   \\ /   / 
+[MSFPC ANES Payload Creator | Laget av Andreas]      |   \\ /   / 
 					             |    \/   / 
 |1| - Windows eth0 6969 	       	             |     \\/|     
 |2| - Windows $ip $port      	                     |      \\| 
