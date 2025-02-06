@@ -1,6 +1,6 @@
 # ANES Meterpreter (for digispark)
 ## v1.3.7 - README
-**By [halsen](https://github.com/halsen) and [l0guecow](https://github.com/l0guecow)**
+**By [halsen](https://github.com/espenhalsen) and [l0guecow](https://github.com/l0guecow)**
 
 ---
 
